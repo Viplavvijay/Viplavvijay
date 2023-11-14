@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm VIPLAV VIJAY</h1>
 <h3 align="center">A passionate developer & Tech Enthusiast from India</h3>
 
-<img align="right" alt="code" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=4W%2fZiii7&id=92E6A84FAC6B2D9D873F26D66BEF29C2A55D550E&thid=OIP.4W_Ziii7Krf-0nBuqGSnHAAAAA&mediaurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fr2GeVMsGfTuaA%2fgiphy.gif&exph=480&expw=474&q=coder+gif&simid=608003284774583923&FORM=IRPRST&ck=48FCD439C1BD41232CBF9723BC66BEFA&selectedIndex=131
+<img align="right" alt="code" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=4W%2fZiii7&id=92E6A84FAC6B2D9D873F26D66BEF29C2A55D550E&thid=OIP.4W_Ziii7Krf-0nBuqGSnHAAAAA&mediaurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fr2GeVMsGfTuaA%2fgiphy.gif&exph=480&expw=474&q=coder+gif&simid=608003284774583923&FORM=IRPRST&ck=48FCD439C1BD41232CBF9723BC66BEFA&selectedIndex=131131
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viplavvijay&label=Profile%20views&color=0e75b6&style=flat" alt="viplavvijay" /> </p>
