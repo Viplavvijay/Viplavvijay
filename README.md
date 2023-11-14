@@ -1,3 +1,4 @@
+![logo](https://github.com/Viplavvijay/Viplavvijay/blob/main/bck.jpg)
 <h1 align="center">Hi 👋, I'm VIPLAV VIJAY</h1>
 <h3 align="center">A passionate developer & Tech Enthusiast from India</h3>
 
