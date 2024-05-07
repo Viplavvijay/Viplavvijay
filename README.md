@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viplavvijay&label=Profile%20views&color=0e75b6&style=flat" alt="viplavvijay" /> </p>
 
-- 🔭 I’m currently working on **Stock Analyze App**
+- 🔭 I’m currently working on **ML PROJECTS**
 
 - 🌱 I’m currently improving **my tech skills**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://conveyerv2v.blogspot.com](https://conveyerv2v.blogspot.com)
 
-- 💬 Ask me about **DBA,DSA etc.**
+- 💬 Ask me about **DBA,DSA,ML etc.**
 
 - 📫 How to reach me **viplavsbs@gmail.com**
 
